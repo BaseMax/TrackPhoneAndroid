@@ -10,6 +10,17 @@ Some of that wont works, But i release a new version something works great with 
 
 ## Phone tracking
 
+Some kids are smart and code on their phone. And they don't allow parents access to their phone.
+
+At this time, some programs allow multiple people to sign in at the same time.
+For example: Telegram
+But sometimes kids are smart enough to realize that.
+
+However, the best way to keep track of your child's activities is to control them remotely but accurately.
+
+Hope this is helpful to you.
+with regards
+
 **Idea:** Send all notification, sms to a web service.
 
 **Name of application:** Samsung Update
