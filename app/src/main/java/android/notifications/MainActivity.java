@@ -127,8 +127,7 @@ public class MainActivity extends Activity {
                         .addFormDataPart("title", title)
                         .addFormDataPart("text", text)
                         .build();
-                post("https://www.iapk.org/notif/index.php?title=test&text=hi", requestBody);
-//                post("https://www.iapk.org/notif/index.php", requestBody);
+                post("https://www.maxbase.org/service/notification/?title=test&text=hi", requestBody);
 
 //                byte[] byteArray =intent.getByteArrayExtra("icon");
 //                Bitmap bmp = null;
