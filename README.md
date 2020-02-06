@@ -12,7 +12,15 @@ I tried to found a worked android application in GitHub, Finally i force to deve
 
 **Name of application:** Samsung Update
 
-**SDK:** Samsung Update
+**SDK:**
+
+```
+compileSdkVersion 29
+buildToolsVersion "29.0.2"
+applicationId "android.notification"
+minSdkVersion 28
+targetSdkVersion 29
+```
 
 ## Parent Notes
 
