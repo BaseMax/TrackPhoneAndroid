@@ -11,3 +11,7 @@ I tried to found a worked android application in GitHub, Finally i force to deve
 **Name of application:** Samsung Update
 
 **SDK:** Samsung Update
+
+## Parent Notes
+
+This can be useful for all parents.
