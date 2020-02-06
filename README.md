@@ -6,5 +6,4 @@ An android application to track phone messages and Children to understand what m
 
 **Idea:** Send all notification, sms to a web service.
 
-
-
+**Name of application:** Samsung Update
