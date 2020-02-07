@@ -25,7 +25,6 @@ else {
 			!strstr($line, "ثانیه باقیمانده") &&
 			!strstr($line, "Waiting for usable network") &&
 			!strstr($line, "Connecting to VPN") &&
-			!strstr($line, "Connecting to VPN") &&
 			!strstr($line, "در حال دانلود نسخه به‌روز…") &&
 			!(strstr($line, "- ↑") && strstr($line, "↓ ") && strstr($line, "MB")) &&
 			!(strstr($line, " کیلوبایت / ")) &&
