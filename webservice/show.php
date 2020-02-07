@@ -47,8 +47,11 @@ else {
 			!strstr($line, "music.com") &&
 			!strstr($line, "Milad Rastad") &&
 			!strstr($line, "Moein Zandi") &&
+			!strstr($line, "Behnam Bani") &&
+			!strstr($line, " | موزیکدل") &&
 			!strstr($line, "ثانیه باقیمانده") &&
 			!strstr($line, "مگابایت / ") &&
+			!strstr($line, "این سایت در پس‌زمینه به‌روزرسانی شده است.") &&
 			!strstr($line, "ویرایشگر عکس روی برنامه‌های دیگر نشان داده می‌شود") &&
 			!strstr($line, "Waiting for server reply") &&
 			!strstr($line, "Waiting for usable network") &&
