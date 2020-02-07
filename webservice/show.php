@@ -41,6 +41,10 @@ else {
 			!strstr($line, "@MuDownloadir") &&
 			!strstr($line, "Alireza Pouya") &&
 			!strstr($line, "Yousef Zamani") &&
+			!strstr($line, "RozMusic.com") &&
+			!strstr($line, "DarvishMusic.com") &&
+			!strstr($line, "Music.com") &&
+			!strstr($line, "music.com") &&
 			!strstr($line, "Milad Rastad") &&
 			!strstr($line, "Moein Zandi") &&
 			!strstr($line, "ثانیه باقیمانده") &&
