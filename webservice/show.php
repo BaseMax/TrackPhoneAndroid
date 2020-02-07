@@ -7,6 +7,7 @@ if(isset($_GET["log"])) {
 }
 else {
 	$lines=explode("\n", $data);
+	$lines=array_unique($lines);
 	foreach($lines as $line) {
 		if(
 			!strstr($line, "none = none") &&
@@ -39,6 +40,9 @@ else {
 			!strstr($line, "Remix") &&
 			!strstr($line, "@MuDownloadir") &&
 			!strstr($line, "Alireza Pouya") &&
+			!strstr($line, "Yousef Zamani") &&
+			!strstr($line, "Milad Rastad") &&
+			!strstr($line, "Moein Zandi") &&
 			!strstr($line, "ثانیه باقیمانده") &&
 			!strstr($line, "مگابایت / ") &&
 			!strstr($line, "ویرایشگر عکس روی برنامه‌های دیگر نشان داده می‌شود") &&
