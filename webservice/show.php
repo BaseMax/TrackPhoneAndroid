@@ -48,6 +48,12 @@ else {
 			!strstr($line, "Milad Rastad") &&
 			!strstr($line, "Moein Zandi") &&
 			!strstr($line, "Behnam Bani") &&
+			!strstr($line, "Google Chrome:") && 
+			!strstr($line, "Microsoft OneDrive") && 
+			!strstr($line, "Tiktok = ") && 
+			!strstr($line, "Video Downloader for Tiktok") && 
+			!strstr($line, "‏‪Google Community Team‬‏ =") && 
+			!strstr($line, "Gmail =") && 
 			!strstr($line, " | موزیکدل") &&
 			!strstr($line, "ثانیه باقیمانده") &&
 			!strstr($line, "مگابایت / ") &&
