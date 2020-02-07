@@ -58,7 +58,8 @@ else {
 			!(strstr($line, "Google = none")) &&
 			!(strstr($line, "در حال انجام…")) &&
 			!(strstr($line, "عکس از صفحه گرفته شد = برای باز کردن آن در گالری، اینجا ضربه بزنید")) &&
-			!strstr($line, "دانلود آهنگ جدید")
+			!strstr($line, "دانلود آهنگ جدید") &&
+			trim($line) !="="
 		) {
 			print $line."\n<br>";
 		}
